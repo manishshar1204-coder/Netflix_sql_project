@@ -9,7 +9,7 @@
 End-to-end SQL analysis of the Netflix content catalog (~8,800 titles) to answer 15 real-world business questions covering content strategy, regional distribution, genre trends, and content classification. Built to simulate the kind of ad-hoc reporting and analytical requests a Business/Data Analyst would handle for a content or product team.
 
 ## Dataset
--**Dataset Link:[movies dataset] https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download
+-Dataset Link:[movies dataset] https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download
 - **Source:** Netflix Movies and TV Shows dataset (`NETFLIX.csv`)
 - **Rows:** ~8,800 titles
 - **Columns:** show_id, type, title, director, cast, country, date_added, release_year, rating, duration, listed_in (genre), description
